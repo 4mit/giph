@@ -1,6 +1,4 @@
-# Progressive Web Apps - Complete Guide
-
-This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
+# Giphy app
 
 # How to Use
 
