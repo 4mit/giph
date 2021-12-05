@@ -1,0 +1,24 @@
+{
+  "name": "graphqlgiphyserver",
+  "version": "1.0.0",
+  "description": "graphql api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -r esm src/server.js",
+    "test": "jest"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.3.2",
+    "apollo-server": "^3.5.0",
+    "dotenv": "^7.0.0",
+    "graphql": "^16.0.1",
+    "lodash.merge": "^4.6.2"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.4"
+  }
+}
